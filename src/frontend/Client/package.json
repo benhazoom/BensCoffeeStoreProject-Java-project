@@ -1,0 +1,31 @@
+{
+  "name": "Client",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "axios": "^0.27.2",
+    "bootstrap": "^4.6.2",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.8.2",
+    "cors": "^2.8.5",
+    "nuxt": "^2.13.3",
+    "v-calendar": "^2.2.0",
+    "vue-js-modal": "^2.0.0-rc.6",
+    "vue-star-rating": "^1.7.0"
+  },
+  "devDependencies": {
+    "@vue/test-utils": "^1.1.2",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "vue-jest": "^3.0.4"
+  }
+}
