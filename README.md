@@ -10,7 +10,7 @@ This Web site represents a multi layers web site serving costumers(viewing and b
 4. Run the Main method on the file “BenCoffeeStoreApplication.java”.
 (BensCoffeeStoreProject/src/main/java/com/example/demo/BenCoffeeStoreApplication.java)
 
-5.Open terminal on the Client folder and run the command - npm run dev.
+5. Open terminal on the Client folder and run the command - npm run dev.
 
 ## 🎥 Demo
 Coming soon... :)
