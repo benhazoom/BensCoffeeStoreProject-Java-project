@@ -4,12 +4,12 @@
 This Web site represents a multi layers web site serving costumers(viewing and buying products) and managers(adding, deleting ,previewing and updating products) harnessing the power of Nuxt – js framework, REST api and java beckend for project service.
 
 ## 🔧 Running the site 
+1. Download the project from the repository.
+2. Open the project's folder via Visual Studio (Recommended) or other Java/npm supported IDE.
+3. make sure you have npm, vue, nuxt packages installed on the IDE.
+4 . Run the Main method on the file “BenCoffeeStoreApplication.java”
+(BensCoffeeStoreProject/src/main/java/com/example/demo/BenCoffeeStoreApplication.java)
+5.Open terminal on the Client folder and run the command - npm run dev
 
-
-⚠️ Notice: In case XamlAnimatedGif already exists in References after cloning, please uninstall and reinstall it again.
-
-4. Run using the DLLs provided in Plugins folder.
-## 📚 Further Documentation
-For more info regarding the main classes of the project, information flow and UML diagrams, please refer to our [Wiki site](https://github.com/MatanNoach/FlightInspectionDesktopApp/wiki).
 ## 🎥 Demo
-[Our demo video](https://www.youtube.com/watch?v=dzWjBTXAows)
+Coming soon... :)
