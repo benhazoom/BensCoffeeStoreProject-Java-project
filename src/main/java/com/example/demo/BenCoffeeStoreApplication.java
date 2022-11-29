@@ -12,8 +12,6 @@ public class BenCoffeeStoreApplication {
 
 }
 
-//Tesks
-//1.change id to int
-//2.manage a full object insertion to db (multiple fields and not only id)
-//3.take a springboot course?
-//4.
+//Run Instructions
+//1.run SpringApplication
+//2.run npm run dev in Client Terminal

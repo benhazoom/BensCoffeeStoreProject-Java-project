@@ -1,27 +1,36 @@
 1
-אנדריאה פרימיום
-מכונת קפה שני דודים ראש e61 מקצועית להכנת קפה ביתי
+Andrea premium
+professional coffee machine 
 30000
-כסף
-מכונות קפה
+Silver
+Coffee machines
 3
-שנים
+Years
 ,
 2
-מאקינטה ביאלטי
-מכונת קפה ידנית על הגז
+Bialety moka pot
+Menual coffee machine 
 100
-כסף
-מכונות קפה
+Silver
+Coffee machines
 3
-שנים
+Years
 ,
 3
-פיקופרסו
-מכונת קפה לשטח המכינה אספרסו
+PicoPresso
+Portable espresso maker
 400
-שחור
-מכונות קפה
+Black
+Coffee machines
 1
-שנים
+Years
+,
+4
+V60 hario drip
+hot drip maker
+60
+Black
+Coffee machines
+1
+Years
 ,

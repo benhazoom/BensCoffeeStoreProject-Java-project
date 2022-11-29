@@ -17,7 +17,7 @@
           required
         ></b-form-input>
       </b-form-group>
-      <b-form-text id="input-live-help">הכנס מספר שלם חיובי</b-form-text>
+      <b-form-text id="input-live-help">Insert a Positive whole Number</b-form-text>
       <br />
       <b-form-group id="input-group-2" label="Name:" label-for="input-2">
         <b-form-input
@@ -106,14 +106,14 @@ export default {
         price: 0,
         color: "",
         warranty_amount: 0,
-        warranty_time_period: "שנים",
-        catalog: "מכונות קפה",
+        warranty_time_period: "Years",
+        catalog: "Coffee Machines",
       },
       time_periods: [
         { text: "Select Time Period", value: null },
-        "ימים",
-        "חודשים",
-        "שנים",
+        "Days",
+        "Months",
+        "Years",
       ],
 
       catalog: namelesscatalog,
@@ -124,6 +124,7 @@ export default {
   methods: {
     onSubmit(event) {
       productService.addProduct(this.form);
+			location.reload();
     },
     onReset(event) {
       event.preventDefault();

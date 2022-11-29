@@ -7,12 +7,12 @@
 	<table class="table table-striped">
 		<thead>
 			<th>id</th>
-			<th>שם</th>
-			<th>תיאור</th>
-			<th>מחיר</th>
-			<th>צבע</th>
-			<th>קטגוריה</th>
-			<th>משך אחריות</th>
+			<th>name</th>
+			<th>description</th>
+			<th>price</th>
+			<th>color</th>
+			<th>category</th>
+			<th>warranty</th>
 			<th></th>
 		</thead>
 
