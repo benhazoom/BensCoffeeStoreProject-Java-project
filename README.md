@@ -57,6 +57,15 @@ implementing all basic database methods (Post,Get,Put,Delete) using Java SpringB
 
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/87472603/205637621-513579e6-f083-4a45-bc11-0dfb8fcb4bd1.png">
 
-10.
+### Back End
 
+The Back End consists of the following 
+1.IProduct - interface for products
+2.Product.java - Object class for defining the object Product and its methods
+3.Products.java - represents a list of products and its methods
+4.ProductComparetor.java - A specific comparetor for comparing by category
+5.ProductController.java - connects between the service and the DB
+6.ProductService.java - connects between the current representation of product and the DB
+7.BenCoffeeStoreApplication.java - Main file, runs the application
 
+The back end implements dinamic service which allowes easy transformation between **data bases** and between **other types of products**
