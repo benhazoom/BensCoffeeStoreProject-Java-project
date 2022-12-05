@@ -17,4 +17,5 @@ implementing all basic database methods (Post,Get,Put,Delete) using Java SpringB
 5. Open terminal on the Client folder and run the command - npm run dev.
 
 ## 🎥 Demo
-Coming soon... :)
+1.Runnin java Springboot application
+<img width="717" alt="image" src="https://user-images.githubusercontent.com/87472603/205634080-046b4ae2-364e-4408-a08d-9aa7a1591e8c.png">
