@@ -1,7 +1,7 @@
 <template>
 	<div>
-		<input type="text" id="DeleteId" placeholder="למחיקה id הכנס">
-		<button v-on:click="deleteProd(idToDelete)">מחק</button>
+		<input type="text" id="DeleteId" placeholder="insert id for deletion">
+		<button v-on:click="deleteProd(idToDelete)">Delete</button>
 
 		<h1 class="text-center">Product List</h1>
 	<table class="table table-striped">
@@ -37,7 +37,6 @@
   <script>
 	import 'bootstrap/dist/css/bootstrap.min.css'
 	import productService from "../../ProductService.js"
-const apiUrl = "https://localhost:8080/api/v1/product"
 
 export default {
 	data() {

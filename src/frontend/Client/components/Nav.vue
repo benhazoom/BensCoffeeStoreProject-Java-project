@@ -1,7 +1,7 @@
 <template>
     <nav class="navbar navbar-dark bg-dark padding ">
 		
-    <NuxtLink class="navbar-brand" to="/">דף בית</NuxtLink>
+    <NuxtLink class="navbar-brand" to="/">Home Page</NuxtLink>
     <div>
 	<Category
       v-for="catalog in catalogsInfo"
@@ -10,7 +10,7 @@
     />
     </div>
 
-	<NuxtLink class="navbar-brand" to="/managment">דף ניהול</NuxtLink>
+	<NuxtLink class="navbar-brand" to="/managment">Management</NuxtLink>
 
     </nav>
 </template>

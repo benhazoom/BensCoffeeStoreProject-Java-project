@@ -1,13 +1,12 @@
 package com.example.demo.Dao;
 
 import com.example.demo.model.Product;
+import com.example.demo.model.ProductComparator;
 import org.springframework.stereotype.Repository;
 
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
 
 //This class is a repository for saving the object in DB locally!
 //pulles data from DB and manipulates it locally?
@@ -24,6 +23,7 @@ public class Products implements IProduct {
             return false;// is such product exists do not add again
         else {
             products.add(new Product(id, name, description, price, color, catalog, warranty_amount, warranty_time_period));
+            Collections.sort(products, new ProductComparator());
             ProductsToDB(products);
             return true;
         }}
@@ -95,5 +95,6 @@ public class Products implements IProduct {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
     }
 }
