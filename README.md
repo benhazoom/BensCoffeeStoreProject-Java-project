@@ -17,6 +17,7 @@ implementing all basic database methods (Post,Get,Put,Delete) using Java SpringB
 5. Open terminal on the Client folder and run the command - npm run dev.
 
 ## 🎥 Demo
+### Front End
 1.Running java Springboot application
 
 <img width="717" alt="image" src="https://user-images.githubusercontent.com/87472603/205634080-046b4ae2-364e-4408-a08d-9aa7a1591e8c.png">
@@ -48,12 +49,14 @@ implementing all basic database methods (Post,Get,Put,Delete) using Java SpringB
 
 8.The product List - Sorted by category using java Comparator class
 
-<img width="958" alt="image" src="https://user-images.githubusercontent.com/87472603/205637220-c8fbfb7c-df55-4f2e-a972-1b4a168e0105.png">
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/87472603/205637561-94c7c8f6-b094-46e9-96fe-6120311e79b1.png">
 
 9.Deleting item 10 with upper button
 
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/87472603/205637285-7850684e-a70d-407a-b933-cf78cce9eb10.png">
 
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/87472603/205637621-513579e6-f083-4a45-bc11-0dfb8fcb4bd1.png">
 
+10.
 
 
