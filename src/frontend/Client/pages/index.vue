@@ -3,14 +3,7 @@
 	  <Hero />
 	  <br>
 	  <br>
-	  <br>
-	  <br>
-	  <br>
-	  <br>
-	  <br>
-	  <br>
-	  <br>
-	  <br>
+
 	  
 	  <!--3. for every large card in largeCardInfo apply the LargeCardDisplay component -->
 	  <LargeCardSectionDisplay

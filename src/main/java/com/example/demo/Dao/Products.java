@@ -1,12 +1,15 @@
 package com.example.demo.Dao;
 
-import com.example.demo.model.Product;
-import com.example.demo.model.ProductComparator;
-import org.springframework.stereotype.Repository;
-
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.stereotype.Repository;
+
+import com.example.demo.model.Product;
 
 //This class is a repository for saving the object in DB locally!
 //pulles data from DB and manipulates it locally?

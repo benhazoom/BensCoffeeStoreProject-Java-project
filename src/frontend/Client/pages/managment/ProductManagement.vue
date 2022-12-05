@@ -92,7 +92,6 @@
 
 <script>
 import { namelesscatalog } from "@/assets/data.js";
-import { idcounter } from "@/assets/data.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 import productService from "../../ProductService.js";
 
@@ -125,7 +124,6 @@ export default {
   methods: {
     onSubmit(event) {
       productService.addProduct(this.form);
-      idcounter++;
 			location.reload();
     },
     onReset(event) {
@@ -161,13 +159,3 @@ export default {
   },
 };
 </script>
-
-<!--   
-"id": 3,
-"name": "מאקינטה ביאלטי",
-"description": "מכונת קפה ידנית על הגז",
-"price": 100,
-"color": "כסף",
-"catalog": "מכונות קפה",
-"warranty_amount": 3,
-"warranty_time_period": "שנים" -->

@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-//This is the controller class meaning that the connection between the view and the db is through here
+//This is the controller class meaning that the connection between the application and the db is through here
 //The controller Utilizes the service to work with the DB
 @RequestMapping("api/v1/product")
 @RestController
