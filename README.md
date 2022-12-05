@@ -1,7 +1,11 @@
-# :coffee: BensCoffeeStoreProject
+# ☕ BensCoffeeStoreProject
 
 ## 🔎 Overview
-This Web site represents a multi layers web site serving costumers(viewing and buying products) and managers(adding, deleting ,previewing and updating products) harnessing the power of Nuxt – js framework, REST api and java beckend for project service.
+This Web site represents a multi layers web site serving costumers(viewing products) and managers(adding, deleting ,previewing and updating products) harnessing the power of Nuxt – js framework, REST api and java beckend for project service.
+
+## 📋 Project Structure and Database Handeling:
+The Back End side of the project (Java Springboot) is built in a way that allows several kinds of databases to be implemented to the site,
+implementing all basic database methods (Post,Get,Put,Delete) using Java SpringBoot controller that verifies, manipulates and uses that methods so that the products could be shown and used inside the Front End side of the projects which is the nuxt js application 
 
 ## 🔧 Running the site 
 1. Download the project from the repository.
