@@ -17,6 +17,37 @@ implementing all basic database methods (Post,Get,Put,Delete) using Java SpringB
 5. Open terminal on the Client folder and run the command - npm run dev.
 
 ## 🎥 Demo
-1.Runnin java Springboot application
+1.Running java Springboot application
 
 <img width="717" alt="image" src="https://user-images.githubusercontent.com/87472603/205634080-046b4ae2-364e-4408-a08d-9aa7a1591e8c.png">
+
+2.Running Nuxt application using npm run dev and clicking (ctrl+leftclick) on the local host link
+
+<img width="345" alt="image" src="https://user-images.githubusercontent.com/87472603/205634418-4f0627a4-3c82-47e1-aff4-0f8eef822aa6.png">
+
+3.Home Page
+
+<img width="947" alt="image" src="https://user-images.githubusercontent.com/87472603/205634725-6bc59f91-9709-4b06-b469-5bfe4095224b.png">
+
+4.Coffee Machines page (accesed via navigation bar)
+
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/87472603/205634912-144d1adf-9862-4a9f-a1a8-022ace10aeed.png">
+
+5.Management page including product manipulation pages
+
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/87472603/205635004-9743db04-7ad9-446a-8476-e89f19b72597.png">
+
+6.New product page - consists of a bootstrap form, submit and reset buttons and a exemplary json format product object
+
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/87472603/205635940-6e64dfd1-ffa4-4be2-8518-bea7034b3193.png">
+
+
+
+6.The product List - Sorted by category using java Comparator class
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/87472603/205635125-6bb568ec-8b09-41fd-9d21-791c7add5f82.png">
+
+7.Demonstrating deletions attempts
+
+
+
