@@ -46,11 +46,14 @@ implementing all basic database methods (Post,Get,Put,Delete) using Java SpringB
 ![image](https://user-images.githubusercontent.com/87472603/205636652-eb3f4d29-24e2-499a-ad49-327703c3010d.png)
 
 
-6.The product List - Sorted by category using java Comparator class
+8.The product List - Sorted by category using java Comparator class
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/87472603/205635125-6bb568ec-8b09-41fd-9d21-791c7add5f82.png">
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/87472603/205637220-c8fbfb7c-df55-4f2e-a972-1b4a168e0105.png">
 
-7.Demonstrating deletions attempts
+9.Deleting item 10 with upper button
+
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/87472603/205637285-7850684e-a70d-407a-b933-cf78cce9eb10.png">
+
 
 
 
