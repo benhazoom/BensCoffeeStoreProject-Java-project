@@ -41,6 +41,9 @@ implementing all basic database methods (Post,Get,Put,Delete) using Java SpringB
 
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/87472603/205635940-6e64dfd1-ffa4-4be2-8518-bea7034b3193.png">
 
+7.successful adding - successful message prompt
+
+![image](https://user-images.githubusercontent.com/87472603/205636652-eb3f4d29-24e2-499a-ad49-327703c3010d.png)
 
 
 6.The product List - Sorted by category using java Comparator class
