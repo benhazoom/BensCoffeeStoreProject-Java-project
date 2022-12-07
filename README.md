@@ -79,6 +79,7 @@ The Back End consists of the following
 The back end implements REST dynamic service which allows easy transformation between **data bases** and between **other types of products**
 
 ## Database
+At first the Database was deleted everytime we restarted the service but using a file to save the Database state from service to service fixed this issue so the Database could be consistent
 
 1-succesful "Post" Method
 
