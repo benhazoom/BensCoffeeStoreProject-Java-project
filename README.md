@@ -77,3 +77,18 @@ The Back End consists of the following
 
 
 The back end implements REST dynamic service which allows easy transformation between **data bases** and between **other types of products**
+
+## Database
+
+1-succesful "Post" Method
+
+<img width="771" alt="image" src="https://user-images.githubusercontent.com/87472603/206207537-16b25b3b-3801-4206-896a-fbf15053423c.png">
+
+2. succesful "Get" method
+
+<img width="770" alt="image" src="https://user-images.githubusercontent.com/87472603/206207732-508e3244-fcf1-496d-9649-af71e34309f5.png">
+
+3.succesful "Delete" method
+
+![image](https://user-images.githubusercontent.com/87472603/206207939-01b43001-71ea-432d-85e1-80add7645eb2.png)
+
