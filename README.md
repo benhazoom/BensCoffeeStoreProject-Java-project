@@ -89,12 +89,15 @@ The back end implements REST dynamic service which allows easy transformation be
 <img width="770" alt="image" src="https://user-images.githubusercontent.com/87472603/206207732-508e3244-fcf1-496d-9649-af71e34309f5.png">
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/87472603/206208661-b10bc9ca-ff02-4a26-8c7d-ca04d993b03a.png">
 
-3.succesful "Delete" method
+3. succesful "Put" method on item 1
+
+<img width="744" alt="image" src="https://user-images.githubusercontent.com/87472603/206209613-485ae3d2-e4d4-42e0-9337-6d016b06bb72.png">
+<img width="795" alt="image" src="https://user-images.githubusercontent.com/87472603/206209709-e7d52130-8d09-4c61-b503-16231ccf29e8.png">
+
+4.succesful "Delete" method
 
 ![image](https://user-images.githubusercontent.com/87472603/206207939-01b43001-71ea-432d-85e1-80add7645eb2.png)
 
-4. trying to delete item 100 again is unsuccesful 
+5. trying to delete item 100 again is unsuccesful 
 
 <img width="772" alt="image" src="https://user-images.githubusercontent.com/87472603/206208135-28fb9043-5643-4b9a-a1f5-c45e6a3a4dab.png">
-
-5.
