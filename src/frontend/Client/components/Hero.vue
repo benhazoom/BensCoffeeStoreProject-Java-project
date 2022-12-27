@@ -7,7 +7,7 @@
 			<br>
             <button class="button btn">למוצרי הקפה שלנו</button>
         </div>
-        <img class="image" src="~assets/svg/coffee-cup-logo.png" alt="fire extinguisher">
+        <img class="image" src="~assets/svg/coffee-cup-logo.png" alt="">
     </div>
 </template>
 
