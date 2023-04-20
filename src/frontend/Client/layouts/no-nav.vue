@@ -1,16 +1,18 @@
 <template>
-    <div>
-        <div class="container">
-            <NuxtLink to="/">Go Back</NuxtLink>
-        </div>
-        <Nuxt />
+  <div>
+    <div class="container">
+      <NuxtLink to="/">
+        Go Back
+      </NuxtLink>
     </div>
+    <Nuxt />
+  </div>
 </template>
 
 <script>
-    export default {
-        
-    }
+export default {
+
+}
 </script>
 
 <style scoped>
