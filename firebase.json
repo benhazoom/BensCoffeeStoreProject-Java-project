@@ -1,0 +1,20 @@
+{
+  "hosting": {
+    "public": "src/frontend/Client/dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "predeploy": [
+      "./mvnw package",
+      "cd src/frontend/Client && npm run build"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
