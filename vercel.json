@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "C:/Users/user/Documents/GitHub/BensCoffeeStoreProject-Java-project/.mvn/wrapper/maven-wrapper.jar",
+      "src": ".mvn/wrapper/maven-wrapper.jar",
       "use": "@vercel/java"
     }
   ],
